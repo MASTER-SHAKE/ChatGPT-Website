@@ -1,0 +1,275 @@
+@font-face {
+    font-family: "MosseBlack";
+    src: local("MosseBlack"),
+    url("../../../../../public/fonts/mosse/mosse-black.ttf") format("truetype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "MosseBook";
+    src: local("MosseBook"),
+    url("../../../../../public/fonts/mosse/mosse-book.ttf") format("truetype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "MosseLight";
+    src: local("MosseLight"),
+    url("../../../../../public/fonts/mosse/mosse-light.ttf") format("truetype");
+    font-weight: bold;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+.hunter-app {
+    height: 97.4vh;
+    font-family: MosseBlack;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient( rgba(255, 255, 255, 0.90), rgba(57, 77, 61, 0.9)), url('../../../../../public/img/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    overflow: hidden;
+}
+
+.logo-placeholder {
+    padding: 10px 25px;
+    width: 35%;
+}
+
+.logo > img {
+    width: 250px;
+    height: auto;
+}
+
+.project-name {
+    font-size: 41px;
+    color: #F5742A;
+    text-shadow: 0 1px 0 #363636, 0 2px 0 #4b4a4a, 0 3px 0 #232222, 0 4px 0 #090909, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+
+.rep-board {
+    font-size: 32px;
+    text-align: center;
+    color: #F5742A;
+    text-shadow: 0 1px 0 #363636, 0 2px 0 #4b4a4a, 0 3px 0 #232222, 0 4px 0 #090909, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+
+.header-right {
+    width: 65%;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.hunter-header-content {
+    position: relative;
+    border-bottom: 2px solid;
+    z-index: 1;
+}
+
+.circle-border {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    bottom: -32px;
+    position: absolute;
+    margin: 0 auto;
+    left: 35.5%;
+    right: 0;
+    border: 2px solid;
+    z-index: 0;
+}
+
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    background: #f5742a;
+    border-radius: 50%;
+    bottom: -30px;;
+    position: absolute;
+    margin: 0 auto;
+    left: 35.5%;
+    right: 0;
+    text-align: center;
+    font-size: 30px;
+    line-height: 60px;
+    z-index: 2;
+}
+
+.icon-logo {
+    width: 80%;
+    height: auto;
+}
+
+.main {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.obtainedCards {
+    padding: 30px 105px;
+    width: 35%;
+    box-sizing: border-box;
+}
+
+.reputationInfo {
+    padding: 55px 25px;
+    height: auto;
+    width: 80%;
+}
+
+.addPointBtn {
+    width: 100%;
+    font-family: MosseBlack;
+    height: 45px;
+    padding: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    background: #F5742A;
+    border: 1px solid #1A1A1A;
+    color: #1A1A1A;
+}
+
+.pointsInput {
+    width: 100%;
+    height: 35px;
+    box-sizing: border-box;
+    margin-bottom: 8px;
+    text-align: center;
+    font-family: MosseBlack;
+    padding: 4px 5px;
+    font-size: 18px;
+}
+
+.hunter-bio {
+    margin-right: 55px;
+    text-align: center;
+}
+
+/* Remove Arrows */
+.pointsInput::-webkit-outer-spin-button,
+.pointsInput::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.pointsInput[type=number] {
+    -moz-appearance: textfield;
+}
+
+.hunter-photo {
+    border-radius: 100px;
+    width: 150px;
+    height: auto;
+    border: 2px solid #f5742a;
+    margin-bottom: 10px;
+}
+
+.hunter-bio div {
+    margin-bottom: 5px;
+}
+
+.orange {
+    color: #f5742a;
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.bio-label {
+    font-size: 24px;
+    color: #1A1A1A;
+}
+
+.cardsTitle {
+    font-size: 24px;
+    color: #F5742A;
+    text-shadow: 0 1px 0 #363636, 0 2px 0 #4b4a4a, 0 3px 0 #232222, 0 4px 0 #090909, 0 5px 0 #aaa, 0 6px 1px rgb(0 0 0 / 10%), 0 0 5px rgb(0 0 0 / 10%), 0 1px 3px rgb(0 0 0 / 30%), 0 3px 5px rgb(0 0 0 / 20%), 0 5px 10px rgb(0 0 0 / 25%), 0 10px 10px rgb(0 0 0 / 20%), 0 20px 20px rgb(0 0 0 / 15%);
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.cardsGrid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.cards {
+    width: 30%;
+    margin-bottom: 15px;
+}
+.card {
+    width: 100%;
+    height: auto;
+    border: 1px solid #090909;
+}
+
+.addAbility {
+    width: 100%;
+    font-family: MosseBlack;
+    height: 35px;
+    padding: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    background: #F5742A;
+    border: 1px solid #1A1A1A;
+    color: #1A1A1A;
+    margin-top: 35px;
+}
+
+.card-obtained {
+    cursor: pointer;
+    box-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.availablePoints {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.reputationTop {
+    display: flex;
+    justify-content: center;
+}
+
+.reputationBottom {
+    padding: 25px;
+}
+
+.mission-list {
+    border: 1px solid #000000;
+    padding: 15px;
+    margin-top: 25px;
+    background: rgb(127 255 212 / 40%);
+}
+
+.mission {
+    padding: 10px 0;
+}
+
+.mission-done-btn {
+    font-family: MosseBlack;
+    margin-left: 10px;
+    cursor: pointer;
+    height: 28px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    background: #F5742A;
+    border: 1px solid #1A1A1A;
+    color: #1A1A1A;
+    vertical-align: middle;
+}
+.mission-done-btn:disabled {
+    background: #a19d96;
+    color: #090909;
+}
+
+.addAbility {
+    box-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}

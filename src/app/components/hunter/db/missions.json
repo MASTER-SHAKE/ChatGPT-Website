@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "Brush and wash.",
+    "points": 25
+  },
+  {
+    "id": 1,
+    "title": "Bath.",
+    "points": 75
+  },
+  {
+    "id": 2,
+    "title": "Meditation.",
+    "points": 100
+  },
+  {
+    "id": 3,
+    "title": "Training.",
+    "points": 100
+  },
+  {
+    "id": 4,
+    "title": "Special mission.",
+    "points": 200
+  },
+  {
+    "id": 5,
+    "title": "Technology Learning",
+    "points": 300
+  }
+]

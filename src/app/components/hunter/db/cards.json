@@ -1,0 +1,470 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "src": "/img/cards/fool.jpg",
+    "description": "none"
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "src": "/img/cards/magician.jpg",
+    "description": "none"
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "src": "/img/cards/high-priestess.jpg",
+    "description": "none"
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "src": "/img/cards/empress.jpg",
+    "description": "none"
+  },
+  {
+    "id": 4,
+    "name": "The Emperor",
+    "src": "/img/cards/emperor.jpg",
+    "description": "none"
+  },
+  {
+    "id": 5,
+    "name": "The Hierophant",
+    "src": "/img/cards/hierophant.jpg",
+    "description": "none"
+  },
+  {
+    "id": 6,
+    "name": "The Lovers",
+    "src": "/img/cards/lovers.jpg",
+    "description": "none"
+  },
+  {
+    "id": 7,
+    "name": "The Chariot",
+    "src": "/img/cards/chariot.jpg",
+    "description": "none"
+  },
+  {
+    "id": 8,
+    "name": "The Strength",
+    "src": "/img/cards/strength.jpg",
+    "description": "none"
+  },
+  {
+    "id": 9,
+    "name": "The Hermit",
+    "src": "/img/cards/hermit.jpg",
+    "description": "none"
+  },
+  {
+    "id": 10,
+    "name": "Wheel of Fortune",
+    "src": "/img/cards/fortune.jpg",
+    "description": "none"
+  },
+  {
+    "id": 11,
+    "name": "Justice",
+    "src": "/img/cards/justice.jpg",
+    "description": "none"
+  },
+  {
+    "id": 12,
+    "name": "The Hangedman",
+    "src": "/img/cards/hangedman.jpg",
+    "description": "none"
+  },
+  {
+    "id": 13,
+    "name": "Death",
+    "src": "/img/cards/death.jpg",
+    "description": "none"
+  },
+  {
+    "id": 14,
+    "name": "Temperance",
+    "src": "/img/cards/temperance.jpg",
+    "description": "none"
+  },
+  {
+    "id": 15,
+    "name": "The Devil",
+    "src": "/img/cards/devil.jpg",
+    "description": "none"
+  },
+  {
+    "id": 16,
+    "name": "The Tower",
+    "src": "/img/cards/tower.jpg",
+    "description": "none"
+  },
+  {
+    "id": 17,
+    "name": "The Star",
+    "src": "/img/cards/star.jpg",
+    "description": "none"
+  },
+  {
+    "id": 17,
+    "name": "The Moon",
+    "src": "/img/cards/moon.jpg",
+    "description": "none"
+  },
+  {
+    "id": 18,
+    "name": "The Sun",
+    "src": "/img/cards/sun.jpg",
+    "description": "none"
+  },
+  {
+    "id": 18,
+    "name": "Judgement",
+    "src": "/img/cards/judgement.jpg",
+    "description": "none"
+  },
+  {
+    "id": 19,
+    "name": "The World",
+    "src": "/img/cards/world.jpg",
+    "description": "none"
+  },
+  {
+    "id": 20,
+    "name": "Ace of Wands",
+    "src": "/img/cards/ace-of-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 21,
+    "name": "II Wands",
+    "src": "/img/cards/2-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 22,
+    "name": "III Wands",
+    "src": "/img/cards/3-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 23,
+    "name": "IV Wands",
+    "src": "/img/cards/4-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 24,
+    "name": "V Wands",
+    "src": "/img/cards/5-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 25,
+    "name": "VI Wands",
+    "src": "/img/cards/6-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 26,
+    "name": "VII Wands",
+    "src": "/img/cards/7-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 27,
+    "name": "VIII Wands",
+    "src": "/img/cards/8-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 28,
+    "name": "IX Wands",
+    "src": "/img/cards/9-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 29,
+    "name": "X Wands",
+    "src": "/img/cards/10-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 30,
+    "name": "King of Wands",
+    "src": "/img/cards/king-of-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 31,
+    "name": "Queen of Wands",
+    "src": "/img/cards/queen-of-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 32,
+    "name": "Knight of Wands",
+    "src": "/img/cards/knight-of-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 33,
+    "name": "Page of Wands",
+    "src": "/img/cards/page-of-wands.jpg",
+    "description": "none"
+  },
+  {
+    "id": 34,
+    "name": "Ace of Cups",
+    "src": "/img/cards/ace-of-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 35,
+    "name": "II Cups",
+    "src": "/img/cards/2-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 36,
+    "name": "III Cups",
+    "src": "/img/cards/3-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 37,
+    "name": "IV Cups",
+    "src": "/img/cards/4-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 38,
+    "name": "V Cups",
+    "src": "/img/cards/5-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 39,
+    "name": "VI Cups",
+    "src": "/img/cards/6-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 40,
+    "name": "VII Cups",
+    "src": "/img/cards/7-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 41,
+    "name": "VIII Cups",
+    "src": "/img/cards/8-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 42,
+    "name": "IX Cups",
+    "src": "/img/cards/9-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 43,
+    "name": "X Cups",
+    "src": "/img/cards/10-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 44,
+    "name": "King of Cups",
+    "src": "/img/cards/king-of-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 45,
+    "name": "Queen of Cups",
+    "src": "/img/cards/queen-of-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 46,
+    "name": "Knight of Cups",
+    "src": "/img/cards/knight-of-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 47,
+    "name": "Page of Cups",
+    "src": "/img/cards/page-of-cups.jpg",
+    "description": "none"
+  },
+  {
+    "id": 48,
+    "name": "Ace of Swords",
+    "src": "/img/cards/ace-of-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 49,
+    "name": "II Swords",
+    "src": "/img/cards/2-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 50,
+    "name": "III Swords",
+    "src": "/img/cards/3-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 51,
+    "name": "IV Swords",
+    "src": "/img/cards/4-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 52,
+    "name": "V Swords",
+    "src": "/img/cards/5-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 53,
+    "name": "VI Swords",
+    "src": "/img/cards/6-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 54,
+    "name": "VII Swords",
+    "src": "/img/cards/7-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 55,
+    "name": "VIII Swords",
+    "src": "/img/cards/8-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 56,
+    "name": "IX Swords",
+    "src": "/img/cards/9-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 57,
+    "name": "X Swords",
+    "src": "/img/cards/10-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 58,
+    "name": "King of Swords",
+    "src": "/img/cards/king-of-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 59,
+    "name": "Queen of Swords",
+    "src": "/img/cards/queen-of-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 60,
+    "name": "Knight of Swords",
+    "src": "/img/cards/knight-of-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 61,
+    "name": "Page of Swords",
+    "src": "/img/cards/page-of-swords.jpg",
+    "description": "none"
+  },
+  {
+    "id": 62,
+    "name": "Ace of Pentacles",
+    "src": "/img/cards/ace-of-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 63,
+    "name": "II Pentacles",
+    "src": "/img/cards/2-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 64,
+    "name": "III Pentacles",
+    "src": "/img/cards/3-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 65,
+    "name": "IV Pentacles",
+    "src": "/img/cards/4-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 66,
+    "name": "V Pentacles",
+    "src": "/img/cards/5-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 67,
+    "name": "VI Pentacles",
+    "src": "/img/cards/6-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 68,
+    "name": "VII Pentacles",
+    "src": "/img/cards/7-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 69,
+    "name": "VIII Pentacles",
+    "src": "/img/cards/8-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 70,
+    "name": "IX Pentacles",
+    "src": "/img/cards/9-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 71,
+    "name": "X Pentacles",
+    "src": "/img/cards/10-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 72,
+    "name": "King of Pentacles",
+    "src": "/img/cards/king-of-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 73,
+    "name": "Queen of Pentacles",
+    "src": "/img/cards/queen-of-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 74,
+    "name": "Knight of Pentacles",
+    "src": "/img/cards/knight-of-pentacles.jpg",
+    "description": "none"
+  },
+  {
+    "id": 75,
+    "name": "Page of Pentacles",
+    "src": "/img/cards/page-of-pentacles.jpg",
+    "description": "none"
+  }
+]
