@@ -12,7 +12,7 @@ Get started:
 5. Open http://localhost:3000 in your browser to see the result.
 ```
 
-![ChatGPT Website](https://github.com/MASTER-SHAKE/ChatGPT-Website/raw/master/src/assets/img/webGPT-demo.gif)
+![ChatGPT Website](https://github.com/MASTER-SHAKE/ChatGPT-Website/raw/master/src/app/assets/img/webGPT-demo.gif)
 
 
 
