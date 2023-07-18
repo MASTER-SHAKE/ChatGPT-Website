@@ -1,11 +1,18 @@
 ## ChatGPT Website v2.2
 ```
+This is React+Next.js project with integrated Open AI. 
+- Server with side smooth AI response
+- Chat have understanding of previos messages
+
+Get started:
 1. Get OpenAI API key https://platform.openai.com/account/api-keys
 2. Paste your API key in .env.local
 3. npm install
 4. npm run dev
 5. Open http://localhost:3000 in your browser to see the result.
 ```
+
+![ChatGPT Website](https://github.com/MASTER-SHAKE/ChatGPT-Website/raw/master/src/assets/img/webGPT-demo.gif)
 
 
 
